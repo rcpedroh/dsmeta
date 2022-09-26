@@ -1,4 +1,17 @@
-Projeto de controle de vendas utilizando as tecnologias: HTML/CSS, REACT, TYPESCRIPT, JAVA e Banco de Dados H2.
-Créditos ao execelente professor e profissional Dr. Nélio Alves!
+# SISTEMA DE VENDAS📈
 
-Link: https://dsmeta-rcpedroh.netlify.app/
+🔗[Acesse clicando aqui](https://dsmeta-rcpedroh.netlify.app/)
+
+![preview](./preview/dsmeta-rcpedroh.netlify.app_.png)
+
+>Página de controle de vendas de funcionários com envio de SMS!
+
+## tecnologias: 
+ - HTML/CSS 
+ - REACT 
+ - TYPESCRIPT 
+ - JAVA  B
+ - Banco de Dados H2.
+
+ ## Créditos ao execelente professor e profissional Dr. Nélio Alves!👏
+
