@@ -10,7 +10,7 @@
  - HTML/CSS 
  - REACT 
  - TYPESCRIPT 
- - JAVA  B
+ - JAVA
  - Banco de Dados H2.
 
  ## Créditos ao execelente professor e profissional Dr. Nélio Alves!👏
